@@ -12,11 +12,11 @@ keyword: ""
 
 # SNS settings
 RSS: false
-weibo_username:     wsjwoods
-zhihu_username:     wsjwoods
-github_username:    wsjwoods
+weibo_username:     蒙塔基的钢蛋儿
+zhihu_username:     蒙塔基的钢蛋儿
+github_username:    klau_mentaki
 #twitter_username:  huxpro
-facebook_username:  wsjwoods
+facebook_username:  klau_mentaki
 
 
 
@@ -64,7 +64,7 @@ ga_domain: auto
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写大数据Blog"
+sidebar-about-description: "The Power of Small Changes"
 #sidebar-avatar: /img/autor-woods.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 sidebar-avatar: /img/head-woods2.jpg   
 
