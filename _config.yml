@@ -1,7 +1,7 @@
 # Site settings
 title: klaus_mentaki Blog
 SEOTitle: klaus_mentaki Blog
-header-img: img/hadern.jpg
+header-img: img/home-bg.jpg
 email: 245599768@qq.com
 description: "The Power of Small Changes"
 keyword: ""
@@ -66,7 +66,7 @@ ga_domain: auto
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The Power of Small Changes"
 #sidebar-avatar: /img/autor-woods.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
-sidebar-avatar: /img/head-woods2.jpg   
+sidebar-avatar: /img/hadern.jpg   
 
 
 # Featured Tags
@@ -78,7 +78,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "woods Blog",
+        title: "klaus-mentaki Blog",
         href: ""
     },{
         title: "Foo",
