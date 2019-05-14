@@ -14,9 +14,9 @@ keyword: ""
 RSS: false
 weibo_username:     蒙塔基的钢蛋儿
 zhihu_username:     蒙塔基的钢蛋儿
-github_username:    klau_mentaki
+github_username:    Klaus_mentaki
 #twitter_username:  huxpro
-facebook_username:  klau_mentaki
+facebook_username:  klaus_mentaki
 
 
 
@@ -43,7 +43,7 @@ plugins: [jekyll-paginate]
 # although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
 # document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
-kramdown:
+kramdown: Klaus_mentaki.github.io
   input: GFM                            # use Github Flavored Markdown !important
 
 
